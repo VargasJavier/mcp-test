@@ -1,0 +1,14 @@
+{
+  "mcp": {
+		"servers": {
+			"weather": {
+				"command": "npx",
+				"args": [
+					"-y",
+					"tsx",
+					"/c/Users/jabo9/OneDrive/Escritorio/cloud/mcp-test/main.ts"
+				]
+			}
+		}
+	}
+}
